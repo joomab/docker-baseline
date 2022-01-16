@@ -1,2 +1,2 @@
 # docker-baseline
-This is a baseline of dockerfiles
+This is a baseline of personal dockerfiles
